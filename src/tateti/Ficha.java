@@ -1,5 +1,5 @@
 package tateti;
-// Beans
+// Beans alubias
 public class Ficha {
     private String ficha;
 
